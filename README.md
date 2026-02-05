@@ -1,2 +1,1 @@
-# Face-Authentication-Attendance-System-
- working Face Authentication Attendance System 
+# face_recognition_project
